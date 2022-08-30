@@ -1,6 +1,6 @@
 {
   "name": "hello-mars-dina",
-  "version": "1.0.8",
+  "version": "1.1.0-beta.0",
   "description": "say hello to mars",
   "main": "index.js",
   "scripts": {
